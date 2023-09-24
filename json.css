@@ -42,6 +42,18 @@
   height: 15px;
 }
 
+.range-length .red {
+  background-color: #ff5370;
+  width: 63% !important;
+  height: 15px;
+}
+
+.range-length .blue {
+  background-color: blue;
+  width: 32%;
+  height: 15px;
+}
+
 .btn {
   cursor: pointer;
   padding: 10px;
