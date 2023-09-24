@@ -30,13 +30,13 @@
   background-color: #E0E0E0;
 }
 
-.range-length.red {
+.range-length .red {
   background-color: #ff5370;
   width: 63% !important;
   height: 15px;
 }
 
-.range-length.green {
+.range-length .green {
   background-color: greenyellow;
   width: 32%;
   height: 15px;
